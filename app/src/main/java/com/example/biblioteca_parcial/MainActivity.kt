@@ -1,3 +1,9 @@
+/*
+    Aplicativo de Administración de Tablas Relacionadas con Base de Datos
+    para la gestión de una bibliteca.
+    Cain David Martinez Cardona
+    901N
+*/
 package com.example.biblioteca_parcial
 
 import android.os.Bundle
